@@ -1,0 +1,6 @@
+[10:00:00] INFO Starting regression: smoke_test_01
+[10:00:01] INFO Loading test configuration
+[10:00:02] WARNING Retry count is set to 2
+[10:00:05] ERROR Connection refused while connecting to simulator
+[10:00:05] FAIL smoke_test_01
+[10:00:06] INFO Regression completed
