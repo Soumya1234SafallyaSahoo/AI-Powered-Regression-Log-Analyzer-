@@ -249,7 +249,7 @@ pip install requests
 
 ---
 
-## 🤖 Optional LLM Integration
+## 🤖LLM Integration
 
 The `/analyze/llm` endpoint combines rule-based analysis with an LLM-generated summary.
 
