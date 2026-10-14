@@ -329,9 +329,3 @@ These tests check predefined scenarios; they do not establish production readine
 B.Tech — Computer Science and Engineering
 
 Interested in AI/ML, LLM-based automation, Python development, and engineering tools.
-
----
-
-## 📄 Disclaimer
-
-This project is an educational engineering-support tool. It is intended to assist initial log investigation, not replace engineering judgment, formal verification, or root-cause validation.
